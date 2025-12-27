@@ -1,0 +1,49 @@
+# ninja log v6
+2246	4206	7880268614381444	CMakeFiles/AppUI.dir/main.cpp.obj	7250ddaef2ee7ad0
+68	189	7885573756936096	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+197	1028	7885573765011811	AppUI_autogen/timestamp	2972c230cea8105a
+2238	4198	7880268614297056	CMakeFiles/AppUI.dir/AppUI_autogen/mocs_compilation.cpp.obj	5732cf45dfbc734
+197	1028	7885573765011811	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+197	1028	7885573765011811	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/timestamp	2972c230cea8105a
+197	1028	7885573765011811	AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+438	3442	7885566818626018	CMakeFiles/AppUI.dir/mainwindow.cpp.obj	58b4b9c71496b973
+3442	3665	7885566848631827	AppUI.exe	6198934bfeb964d1
+127	1641	7885577031068115	build.ninja	f4d4b483d0f547b6
+60	186	7885577166167989	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+199	1238	7885577176969874	AppUI_autogen/timestamp	2972c230cea8105a
+199	1238	7885577176969874	AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+199	1238	7885577176969874	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/timestamp	2972c230cea8105a
+199	1238	7885577176969874	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+1239	3287	7885577178022080	CMakeFiles/AppUI.dir/AppUI_autogen/mocs_compilation.cpp.obj	97b2a5497518a58a
+1242	3315	7885577178052688	CMakeFiles/AppUI.dir/main.cpp.obj	a2744eb949f18500
+1246	3621	7885577178096019	CMakeFiles/AppUI.dir/mainwindow.cpp.obj	c5eb1f923133bc01
+3621	3884	7885577201752910	AppUI.exe	b2ea8e5649177ff5
+44	168	7885580165808066	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+177	911	7885580173575297	AppUI_autogen/timestamp	2972c230cea8105a
+177	911	7885580173575297	AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+177	911	7885580173575297	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/timestamp	2972c230cea8105a
+177	911	7885580173575297	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+916	3092	7885580174527826	CMakeFiles/AppUI.dir/main.cpp.obj	a2744eb949f18500
+912	3128	7885580174487672	CMakeFiles/AppUI.dir/AppUI_autogen/mocs_compilation.cpp.obj	97b2a5497518a58a
+919	3484	7885580174560402	CMakeFiles/AppUI.dir/mainwindow.cpp.obj	c5eb1f923133bc01
+3484	3748	7885580200202178	AppUI.exe	b2ea8e5649177ff5
+65	196	7885580334369446	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+34	145	7885581294014178	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+37	159	7885581796983653	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+33	152	7885582022809868	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+28	131	7885582290955905	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+37	159	7885582817553390	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+174	439	7885582818926719	AppUI_autogen/timestamp	2972c230cea8105a
+174	439	7885582818926719	AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+174	439	7885582818926719	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/timestamp	2972c230cea8105a
+174	439	7885582818926719	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+440	2835	7885582821582452	CMakeFiles/AppUI.dir/mainwindow.cpp.obj	c5eb1f923133bc01
+2835	3035	7885582845538307	AppUI.exe	b2ea8e5649177ff5
+50	163	7885588645290074	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+173	393	7885588646505557	AppUI_autogen/timestamp	2972c230cea8105a
+173	393	7885588646505557	AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+173	393	7885588646505557	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/timestamp	2972c230cea8105a
+173	393	7885588646505557	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/AppUI_autogen/mocs_compilation.cpp	2972c230cea8105a
+65	188	7885589658655037	C:/Users/La Tuan/OneDrive - Hanoi University of Science and Technology/Desktop/Jb_Project/2025_SmartDoor/UI/AppUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	585f6dda3299bf90
+198	3224	7885589659986541	CMakeFiles/AppUI.dir/mainwindow.cpp.obj	c5eb1f923133bc01
+3225	3546	7885589690255260	AppUI.exe	b2ea8e5649177ff5
