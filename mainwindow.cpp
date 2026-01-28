@@ -26,7 +26,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButton_clicked()
 {
     QString ip = ui->IPDevice->text();  // 192.168.1.100
-    QUrl url(QString("ws://192.168.1.100/ws").arg(ip));
+    QUrl url(QString("ws://192.168.6.101/ws").arg(ip));
 
     ui->labelStatus->setText("Connecting...");
     m_webSocket.open(url);
